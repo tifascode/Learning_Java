@@ -1,3 +1,5 @@
+package Construtores_e_Herenca;
+
 public class Car extends Vehicle { // Classe Car está herdando de Vehicle
 
     private int power;
