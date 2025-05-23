@@ -1,3 +1,5 @@
+package Criando_Classe_Metodos_Abstract;
+
 public abstract class Pet { // É um modelo para criar outras classes --> Não pode ser instanciada
 
     public String name;
