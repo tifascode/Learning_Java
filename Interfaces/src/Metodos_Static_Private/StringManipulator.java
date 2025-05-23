@@ -9,4 +9,8 @@ public interface StringManipulator {
     private char getChar() { // Private em Interfaces só pode ser usado na prórpria interface
         return '*';
     }
+
+    static String lower(String a) { // Por ser Static pertence a interface, sendo necessário chamar a interface quando for utilizado
+        return a.toLowerCase();
+    }
 }
