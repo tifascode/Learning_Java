@@ -10,8 +10,10 @@
       <module fileurl="file://$PROJECT_DIR$/Herenca_Entre_Classes/Herenca_Entre_Classes.iml" filepath="$PROJECT_DIR$/Herenca_Entre_Classes/Herenca_Entre_Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introducao_Metodos/Introducao_Metodos.iml" filepath="$PROJECT_DIR$/Introducao_Metodos/Introducao_Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Json_JacksonAPI/Json_JacksonAPI.iml" filepath="$PROJECT_DIR$/Json_JacksonAPI/Json_JacksonAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modificador_Static/Modificador_Static.iml" filepath="$PROJECT_DIR$/Modificador_Static/Modificador_Static.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operadores_Java/Operadores_Java.iml" filepath="$PROJECT_DIR$/Operadores_Java/Operadores_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variaveis_Tipos_de_Dados/Variaveis_Tipos_de_Dados.iml" filepath="$PROJECT_DIR$/Variaveis_Tipos_de_Dados/Variaveis_Tipos_de_Dados.iml" />
     </modules>
   </component>
