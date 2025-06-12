@@ -13,6 +13,9 @@ public class App {
             System.out.println("SUCCESS");
         } catch (InsufficientFundsException | IllegalArgumentException e) { // Multi Catch, usado para exceptions que vão receber o mesmo tratamento
             System.out.println(e.getMessage());
+        } finally { // O bloco finally vai ser executado nos dois cenários try e catch. Podemos ter apenas um finally por try
+                    // Não é necessário ter o bloco catch para usar o bloco finally
+            System.out.println("THE END");
         }
     }
 }
