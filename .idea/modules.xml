@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Operadores_Java/Operadores_Java.iml" filepath="$PROJECT_DIR$/Operadores_Java/Operadores_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" filepath="$PROJECT_DIR$/Polimorfismo/Polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Records/Records.iml" filepath="$PROJECT_DIR$/Records/Records.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tratando_Exceptions/Tratando_Exceptions.iml" filepath="$PROJECT_DIR$/Tratando_Exceptions/Tratando_Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Variaveis_Tipos_de_Dados/Variaveis_Tipos_de_Dados.iml" filepath="$PROJECT_DIR$/Variaveis_Tipos_de_Dados/Variaveis_Tipos_de_Dados.iml" />
     </modules>
