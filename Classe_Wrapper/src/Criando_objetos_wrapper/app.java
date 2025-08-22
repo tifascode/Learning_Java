@@ -18,7 +18,7 @@ public class app {
 
         Boolean b = true;
         Boolean b2 = Boolean.valueOf("true");
-        Boolean b3 = Boolean.parseBoolean("true");
+        boolean b3 = Boolean.parseBoolean("true");
 
     }
 }
