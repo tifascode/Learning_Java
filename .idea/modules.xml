@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aulas.iml" filepath="$PROJECT_DIR$/Aulas.iml" />
       <module fileurl="file://$PROJECT_DIR$/Classe_Abstract/Classe_Abstract.iml" filepath="$PROJECT_DIR$/Classe_Abstract/Classe_Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classe_Wrapper/Classe_Wrapper.iml" filepath="$PROJECT_DIR$/Classe_Wrapper/Classe_Wrapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/Construindo_Encapsulando_Objetos/Construindo_Encapsulando_Objetos.iml" filepath="$PROJECT_DIR$/Construindo_Encapsulando_Objetos/Construindo_Encapsulando_Objetos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enums/Enums.iml" filepath="$PROJECT_DIR$/Enums/Enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estrutura_de_Repeticao/Estrutura_de_Repeticao.iml" filepath="$PROJECT_DIR$/Estrutura_de_Repeticao/Estrutura_de_Repeticao.iml" />
