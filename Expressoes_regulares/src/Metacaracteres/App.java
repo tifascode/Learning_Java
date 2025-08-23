@@ -14,7 +14,7 @@ public class App {
 
         // QUANTIFICADORES
         // -> * (zero ou mais ocorrências)
-        // -> + (Uma ou mais ocorrências)
+        // -> + (Uma ou mais ocorrências/letras seguidas)
         // -> ? (nenhuma ou uma ocorrência)
 
     }
