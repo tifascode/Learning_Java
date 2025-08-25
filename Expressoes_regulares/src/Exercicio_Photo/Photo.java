@@ -21,7 +21,7 @@ public class Photo {
         Scanner scanner = new Scanner(fileName);
         scanner.useDelimiter("[-.]");
 
-        String number = scanner.next().replaceAll("\\D", "");
+        String number = scanner.nextLine().replaceAll("\\D", "");
         String ano = scanner.next();
         String cidade = scanner.next();
 
