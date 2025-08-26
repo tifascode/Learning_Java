@@ -17,5 +17,11 @@ public class App {
         BigDecimal b1 = new BigDecimal("0.1");
         BigDecimal b2 = new BigDecimal("0.2");
         System.out.println(b1.add(b2)); // saída -> 0.3
+
+        BigDecimal b3 = BigDecimal.valueOf(1.0);
+        BigDecimal b4 = BigDecimal.valueOf(1);
+        System.out.println(b3 == b4); // False
+        System.out.println(b3.equals(b4)); // False
+        System.out.println(b3.compareTo(b4) == 0); // True
     }
 }
