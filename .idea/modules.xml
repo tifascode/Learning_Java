@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Aulas.iml" filepath="$PROJECT_DIR$/Aulas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/BigNumbers/BigNumbers.iml" filepath="$PROJECT_DIR$/BigNumbers/BigNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigNumbers_e_arredondamentos/BigNumbers_e_arredondamentos.iml" filepath="$PROJECT_DIR$/BigNumbers_e_arredondamentos/BigNumbers_e_arredondamentos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Classe_Abstract/Classe_Abstract.iml" filepath="$PROJECT_DIR$/Classe_Abstract/Classe_Abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/Classe_Wrapper/Classe_Wrapper.iml" filepath="$PROJECT_DIR$/Classe_Wrapper/Classe_Wrapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/Construindo_Encapsulando_Objetos/Construindo_Encapsulando_Objetos.iml" filepath="$PROJECT_DIR$/Construindo_Encapsulando_Objetos/Construindo_Encapsulando_Objetos.iml" />
