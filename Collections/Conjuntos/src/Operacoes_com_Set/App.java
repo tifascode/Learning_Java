@@ -20,5 +20,6 @@ public class App {
         System.out.println(set.isEmpty()); // verifica se o conjunto está vazio
         System.out.println(set.contains(1)); // retorna true ou false caso tenha o valor
         set.remove(1); // remove o elemento do conjunto
+        System.out.println(set);
     }
 }
