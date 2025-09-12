@@ -10,6 +10,10 @@ public class Account implements Comparable<Account> {
         this.balance = balance;
     }
 
+    public double getBalance() {
+        return balance;
+    }
+
     @Override
     public int compareTo(Account o) {
         return this.numero.compareTo(o.numero);
